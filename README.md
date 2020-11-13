@@ -1,4 +1,4 @@
-# hello-world
+# Public repository QA
 My first repository
 
 Hi all!
