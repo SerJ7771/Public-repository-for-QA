@@ -11,7 +11,7 @@ total_amount = []
 # в цикле проходимся по ключам словаря(назвения банков)
 # и заполняем список результатов
 for bank in per_cent:
-    total_amount.append(money + (money * 1 * per_cent[bank]))
+    total_amount.append(money + (money / 100 * per_cent[bank]))
 
 # выводим величину вклада списком с помощью list comprehention
 print ('deposit ', total_amount)
