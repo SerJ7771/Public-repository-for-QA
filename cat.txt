@@ -1,0 +1,11 @@
+cat1
+
+name = Барон
+gender = мальчик
+age = 2 года
+
+cat2
+
+name = Сэм
+gender = мальчик
+age = 2 года
